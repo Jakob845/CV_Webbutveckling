@@ -16,3 +16,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+.navbar-item :hover{
+    background-color: lightslategray;
+    color: white !important;
+}
