@@ -8,5 +8,16 @@ namespace CV_Webbutveckling.Controllers
         {
             return View();
         }
+
+        public IActionResult Education()
+        {
+            return View();
+        }
+
+        public IActionResult Experience()
+        {
+            return View();
+        }
+
     }
 }
